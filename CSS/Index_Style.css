@@ -1,0 +1,23 @@
+.Content {
+    margin-top: 110px;
+}
+
+h1 {
+    font-size  : 4rem;
+    font-family: 'Gulzar', serif;
+}
+
+h2 {
+    font-size  : 1.8rem;
+    font-family: 'Amiri Quran', serif;
+    line-height: 2.5;
+}
+
+h3 {
+    font-size  : 2.2rem;
+    font-family: 'El Messiri', sans-serif;
+}
+
+button {
+    font-size: 1.3rem !important;
+}
